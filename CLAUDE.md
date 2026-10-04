@@ -8,6 +8,11 @@
 v0.1.0. 기획 `.pipeline/plan.md`(astra 3라운드 승인) → luna 구현 → 직접 수정·테스트 →
 sol 코드 심사 2라운드 승인. 단위 10건·브라우저 e2e 183건 통과.
 
+폰용 공개 주소: https://lsd-one1.github.io/id-photo/ (저장소 lsd-one1/id-photo, 공개).
+GitHub Pages 는 지금 **`feat/id-photo` 브랜치**에서 나간다 — main 에 머지하면 Pages 원본도
+main 으로 바꿀 것 (`gh api -X PUT repos/lsd-one1/id-photo/pages -f "source[branch]=main" -f "source[path]=/"`).
+push 하면 1분 안에 주소에 반영된다.
+
 ## 막힌 것 / 사람이 봐야 할 것
 
 - **흰 배경 사진으로는 아직 실제 확인을 못 했다.** 공개 검증 사진 3장이 전부 색 배경(성조기 등)이라,
