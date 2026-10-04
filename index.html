@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>증명사진 변환</title><link rel="stylesheet" href="style.css"></head>
+<body><main><header><h1>증명사진 변환</h1><p>사진은 이 기기 밖으로 나가지 않습니다.</p></header>
+<section class="panel"><label for="photo">1. 사진 고르기</label><input id="photo" type="file" accept="image/*">
+<label for="spec">2. 사진 규격</label><select id="spec"></select>
+<p id="rule" class="note"></p><label id="background-label"><input id="background" type="checkbox"> 배경을 흰색으로 바꾸기</label><p id="bg-note" class="note"></p>
+<div class="adjust"><span>크기</span><input id="scale" type="range" min="0.85" max="1.15" step="0.01" value="1"><output id="scale-value">100%</output></div>
+<div class="buttons"><button id="up" type="button">위로 1mm</button><button id="down" type="button">아래로 1mm</button></div>
+<p id="status" role="status">사진을 선택해 주세요.</p><button id="retry" class="hidden" type="button">다시 시도</button>
+<div id="preview-wrap" class="hidden"><h2>미리보기</h2><canvas id="preview"></canvas><ul id="warnings"></ul><p id="size-warning" class="warning"></p><div class="buttons"><button id="single" disabled>제출용 사진 내려받기</button><button id="sheet" disabled>인화용 모음판 내려받기</button><button id="reference" disabled>참고용(제출 불가할 수 있음)</button></div></div>
+</section><footer>300dpi JPEG · 여권·미국 규격은 배경 합성을 하지 않습니다.</footer></main><script type="module" src="app.js"></script></body></html>

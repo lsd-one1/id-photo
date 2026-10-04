@@ -1,0 +1,4 @@
+face1.jpg | https://commons.wikimedia.org/wiki/File:Antony_Blinken.jpg | Public domain (US federal government work) | 정면, 머리 전체+어깨, 머리 위 여백 약간, 연한 청보라 배경 왼쪽에 성조기, 남성 정장
+face2.jpg | https://commons.wikimedia.org/wiki/File:Pete_Buttigieg,_Secretary_of_Transportation.jpg | Public domain (US federal government work) | 거의 정면, 머리 전체+어깨, 머리 위 여백 충분, 어두운 남색 배경 + 성조기/흰 깃발, 남성 정장 (1280px 썸네일 사용)
+face3.jpg | https://commons.wikimedia.org/wiki/File:Secretary_Janet_Yellen_portrait.jpg | Public domain (US federal government work) | 정면, 상체 전체(허리 위), 복잡한 배경(성조기+녹색 깃발+얼룩진 회색 벽), 흰 머리 여성, 실외는 아님
+two_people.jpg | https://commons.wikimedia.org/wiki/File:President_Trump_and_the_First_Lady_in_India_(49583411008).jpg | Public domain (US federal government work, The White House) | 남녀 두 사람이 나란히 정면, 실외 전신(타지마할 앞), 얼굴은 작음(약 100px)

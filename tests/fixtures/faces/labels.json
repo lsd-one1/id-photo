@@ -1,0 +1,5 @@
+{
+  "face1.jpg": {"width": 2204, "height": 2755, "crownY": 246, "chinY": 1572, "eyeY": 931, "centerX": 1090, "note": "chinY corrected 1435->1572 by line-overlay check (old value sat at the lip). Estimated by eye from a downscaled view (x1.38). Error roughly +-30px. Crown is top of hair."},
+  "face2.jpg": {"width": 1280, "height": 1600, "crownY": 213, "chinY": 870, "eyeY": 545, "centerX": 650, "note": "Viewed at 1:1. Error roughly +-15px. Head is slightly turned/tilted."},
+  "face3.jpg": {"width": 1500, "height": 2100, "crownY": 205, "chinY": 673, "eyeY": 446, "centerX": 772, "note": "chinY corrected 630->673 by line-overlay check. Estimated by eye from a downscaled view (x1.05). Error roughly +-20px. Hair is white against a grey/flag background so the crown edge is lower confidence. Full upper body visible, face is small relative to frame."}
+}
